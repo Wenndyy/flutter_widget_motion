@@ -1,6 +1,10 @@
 # tugas_week1
 
 Result
+
+
+
+
 ![WhatsApp Image 2022-12-13 at 17 47 42](https://user-images.githubusercontent.com/110503759/207297922-7943eb52-5bcc-471e-bf26-159e4afa2cb9.jpg)
 
 
